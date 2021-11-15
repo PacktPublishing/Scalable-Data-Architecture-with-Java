@@ -1,0 +1,101 @@
+deviceserialno,devicename,devicedesc,devicetype,mfdate,saledate,inwarranty
+b0d41cdf-062b-436d-88ad-53317f928be1,Cisco Router,UPkDygdusyexuNGtQD,Network,2017-09-08,2018-06-18,true
+4f942eb8-015d-4b96-bc18-6b9306be376a,EMC Storage Array,hcaic,Storage,2013-01-07,2013-11-21,false
+8b64884f-d66c-4816-9c4f-1cc0f59af453,Cisco Router,BrSFGdZzoekErteN,Network,1996-07-20,1996-07-30,true
+bbd2e783-364d-4a3c-8d6a-b010e01e4d9e,HPE StoreOnce,HRbSWg,Storage,2007-07-08,2007-11-24,true
+3f5aa123-1eb9-4569-b986-c85468385a6e,EMC Storage Array,PNBzDgrRTWh,Storage,1998-10-12,1998-12-25,true
+b2724636-870f-4825-8a7a-beb4b5aab72c,Microsoft Windows Server 2008,CuooRgJFAIsxc,Server,2007-01-18,2007-10-17,true
+956b2820-ac77-40da-978f-a0d8f8817c4c,EMC Data Domain DD6300,aHWahC,Storage,1996-03-23,1996-11-07,false
+61ea1786-38ad-4bfb-a807-0195f98f43fd,EMC Storage Array,XrtQWAoGhVsxdRweFTD,Storage,2017-01-14,2017-03-08,false
+c63a3edd-53f9-490a-9e35-022a45ee220e,IBM Mainframe,bCsaqEqIDFXYhuMPgqyO,Server,2013-08-04,2013-10-10,true
+e514a36c-b958-477f-af91-e29e01938b8e,IBM Mainframe,XywIGm,Server,2015-12-10,2016-12-03,true
+2007caca-3f0d-46b0-9e0f-3ea36ed5e0ca,Cisco Network hubs,NIeBm,Network,2006-01-08,2006-09-09,false
+8e800661-540d-47f2-b4fd-38d67dc710b4,IBM Mainframe,QngLQVyNNNCil,Server,2014-08-18,2014-12-23,true
+1873b077-d4b6-4c9f-a567-3eeeadeaed6d,Microsoft Windows 2010 server,QqmQwNeySxxnAuETyI,Server,2012-09-23,2013-07-11,true
+6d7805ab-e6ee-40ad-8bb2-f41666e7206b,HPE StoreOnce,JxhTAbXtfmOdfigHPzF,Storage,2009-10-15,2010-05-15,true
+279e3519-a486-4786-819d-756757d48c66,EMC Data Domain DD6300,zfwfeaCKBHt,Storage,2013-10-23,2013-12-18,true
+e9b37f3a-1cff-45a9-9ab2-8e63daeb7491,Cisco Router,dgXvOMlYAOncuKMrB,Network,2014-02-22,2014-03-09,true
+c9b74d68-a23b-4f1e-8f48-1deb52274aba,Cisco Network hubs,zagtBsnYhvBT,Network,1997-12-30,1998-09-10,true
+f4d1dae8-1627-4985-8506-bdafd37d5a19,Cisco Router,Qkkyji,Network,2003-10-01,2003-11-23,true
+e71a8b9a-1cf6-4a0a-9be9-2312c956b889,Cisco Network hubs,rWDtrNJJJY dsizu,Network,2005-11-05,2006-08-07,true
+f4ee44cc-0e19-48ab-add3-bfcceefd9c77,HPE Voltas,dEy qaW,Server,2005-09-01,2006-06-07,true
+96a22171-df65-443f-a800-76ed535dca7e,Microsoft Windows Server 2008,WBOYAeMpHHfNy,Server,2011-02-14,2011-11-16,false
+98e5ad6b-20f4-4e13-905d-59b90d8402c0,Microsoft Windows 2010 server,QYfJRsdWQ,Server,2015-09-15,2016-09-03,false
+7eadab60-573a-4882-a000-a877e9d0e4e3,EMC Data Domain DD6300,QOBrydbyHIFAua,Storage,1996-08-07,1997-02-02,true
+222f239e-f800-4970-b4b3-0a7f411d9dd3,Cisco Network hubs,nzmNyUbLEgeGQl,Network,2005-10-04,2006-02-13,true
+a5239949-d7f3-417a-abd2-f66627cb7060,Microsoft Windows Server 2008,jzbJ,Server,2017-05-01,2017-07-26,true
+0cdf6597-382a-4567-8fe3-4baf9da4ac62,Microsoft Windows Server 2008,mYGwKZKZBP,Server,2015-07-21,2015-08-01,true
+c1275c4e-6e23-44f3-ab00-3ea8f00d903e,Cisco Router,KBZ CPUyaQzVdxnEBGQR,Network,1995-03-22,1995-04-03,false
+224019b9-3004-46d5-ab7b-6749d88e9500,EMC Data Domain DD6300,BglDEQU,Storage,2013-06-23,2014-02-20,true
+83a52d70-fde3-42e2-bf87-b7e031f28ef5,Microsoft Router 456x,YAghoYFDllpGVHi,Network,2001-07-16,2002-01-18,false
+8eb5d40b-99c0-4da1-b03e-5cf94e172761,EMC Storage Array,sBxPwbbnjvuLh,Storage,2001-10-25,2002-05-30,true
+c66b525d-25e8-4739-8176-9c57129caf46,Microsoft Router 456x,lCyJRxPMlUxM,Network,2011-05-04,2011-12-06,false
+25292781-1388-420b-ae3b-4d7c57e8fbcf,Microsoft Windows Server 2008,pHweyrII AWlhoXTO,Server,2019-07-11,2019-08-16,true
+39e047e5-fc72-4429-919c-daa3a063108c,Microsoft Windows 2010 server,KNwY ofXy,Server,2002-04-25,2002-08-30,true
+2a76a7dd-2bac-43b5-a6e6-7f3e6e9f8112,Cisco Router,omgeg,Network,1995-06-27,1995-12-20,true
+fde697d0-1835-46d8-84f3-38cd7e02625c,Microsoft Router 456x,zi T,Network,2005-08-09,2006-02-21,false
+b0765535-8043-416b-82bb-72c296b4a3f9,EMC Storage Array,RXcZEBxnGXQZbOC,Storage,1996-08-06,1996-11-06,true
+ff053718-5d33-4c7f-a799-c9ebdcc1ab05,Cisco Router,skP AbKWDCTJh,Network,1996-04-28,1996-11-12,false
+320d2dce-97ef-4e79-885b-9dfdb5fcd61b,EMC Storage Array,HptRee,Storage,2001-03-24,2001-04-15,true
+3ccff52c-f9db-47a9-88f5-3756791fef35,Microsoft Windows Server 2008,qPDVdcqlbHWEH,Server,2005-10-14,2006-08-22,false
+6ad5fe05-42aa-4084-b0de-9b48f2527094,EMC Storage Array,RzBWDHfgN,Storage,2013-10-07,2014-07-18,false
+cb09608b-e30e-491d-8bc8-45773400558b,EMC Data Domain DD6300,aWnCfHLQwHtq,Storage,2012-06-06,2012-11-14,true
+4c4965b0-9c41-47dc-b800-bfe34c5538b6,HPE StoreOnce,n ASlh UJr,Storage,1999-03-07,1999-09-29,false
+c3dc0625-9e76-4d8e-87fb-c62dccaa2ef6,Microsoft Router 456x,OdnxWusJu,Network,2003-08-13,2003-12-04,true
+55d8ed80-7e37-4802-bb3d-653b9874a904,Microsoft Router 456x,YlwsZjqmcz,Network,2000-03-28,2000-09-19,false
+4221f970-4631-4308-8a08-c3b73e116ece,HPE StoreOnce,"gYahdEpVaGbrgp ",Storage,1999-06-21,1999-09-24,true
+1d842ce8-1ac6-4df3-badd-c0934f45060d,IBM Mainframe,RnvzFlqMtAxzc nI,Server,2006-07-26,2007-03-07,false
+a0eeefd2-8a05-4dbb-aaba-1604c512e660,EMC Data Domain DD6300,riJsPwFdjngPwEnC,Storage,1996-09-02,1997-06-23,false
+b715b58c-6fc9-45de-8b51-129328126ffa,Microsoft Router 456x,MkWAFrXFxJFm,Network,2016-04-03,2016-07-20,false
+870214b9-d117-43d9-853a-791dd3c3259d,Cisco Router,EGug,Network,2011-06-17,2012-05-11,true
+19992457-fb87-4e20-a65f-87f2e9e0b283,Microsoft Windows Server 2008,eUfYTxBWqhFl,Server,2009-06-25,2009-10-26,false
+cd290aeb-4212-454c-8a52-fc221b826f14,Microsoft Windows Server 2008,HPAwR,Server,2013-07-15,2013-11-15,true
+e31e5616-5d26-40a5-9cd9-94935ffe683b,HPE Voltas,sgQXJqGjzkQIhC,Server,1998-09-26,1999-04-30,true
+35e9bbb2-85f3-4f67-952e-e886ba87021f,EMC Data Domain DD6300,MlhcwtVtBHqXI,Storage,2018-01-03,2018-06-13,true
+968f0e13-1753-493d-ba92-ff5f8004cdd5,Microsoft Windows Server 2008,UXYOlvhSquk,Server,2017-10-26,2018-03-03,false
+0794538a-5c49-44c8-b9b3-f515e13879b1,HPE StoreOnce,pTghfnPiZhI,Storage,1999-07-22,2000-02-15,true
+b1ab2119-9c64-47ec-ae1a-4b83ee260fe5,Cisco Network hubs,"vliQaYm ",Network,2001-04-15,2001-11-27,true
+dc965dbc-9755-4aa6-84c6-e0780b3029e2,Microsoft Windows Server 2008,inmRJxQ,Server,2005-03-19,2006-01-31,false
+8122c221-9837-45b7-9e92-24ff84b499c5,Cisco Router,BGooLmIwgilQHmd qEz,Network,2009-02-04,2009-05-17,false
+d800a33a-1cf6-4fa5-9583-4cb501a0e558,Microsoft Windows 2010 server,ATuZCSCYT,Server,2017-09-09,2018-01-02,true
+11b6be51-24ea-4095-8909-3e55fb8fbea1,Microsoft Router 456x,GBoHjVaPWJkEgV,Network,2011-12-28,2012-08-01,false
+33217a18-4a17-4af7-abbb-d24b33ab75ec,Cisco Network hubs,handveaGPhfIsefZO,Network,2004-07-11,2005-06-06,false
+8061800d-49c6-4e52-a699-a94994f65d81,Microsoft Windows 2010 server,toNeSvmhnJUXBrqI,Server,2014-03-05,2014-03-14,true
+2d1b1a62-96d5-45fc-a5ed-d047dd93f730,Cisco Router,WbZlmtRCeewen,Network,2017-05-11,2018-03-10,true
+a835c271-4283-4c09-8be3-7b577b327c31,Microsoft Router 456x,mSmcAWBezRPjbAQpGk,Network,1999-12-29,2000-12-14,false
+686c76ee-dbc9-4b90-b2b3-9a89ee1f7a44,EMC Storage Array,bRnuEjPqBKqqHfNSIV,Storage,2007-09-10,2008-03-25,false
+69946977-dd3a-4c3b-9ac8-c34457ae3123,HPE Voltas,ZhPRhNHhnCSBay,Server,2014-11-12,2015-05-27,true
+c3be94fc-30f5-407c-9355-315d00a9dc6f,IBM Mainframe,iMSNEnT,Server,2007-03-28,2007-05-15,true
+b2a85ed7-cca7-429f-86c7-e280666f653d,Microsoft Router 456x,oXMLXkWpQsutyQyhSXT,Network,2004-04-09,2004-08-16,false
+123df96d-9aa6-48e6-8fdb-1eb91cb05528,EMC Storage Array,GTvSOtgQfABKYSNVAndk,Storage,2012-11-20,2013-03-19,true
+623e1558-2fc1-4e5a-86a2-2544f54f0081,EMC Storage Array,IfGBuNXGrJLG,Storage,1997-12-30,1998-04-03,true
+0622cb35-76a4-406d-b039-a461d9b9f09c,Microsoft Windows Server 2008,PSZOQnBeXtzb,Server,2003-04-22,2004-04-13,true
+a60626fd-b44f-44a4-b22a-c6bb5d6e9d3d,Microsoft Windows 2010 server,vxZpsMcimwYGrlFDnpkY,Server,2014-06-27,2015-04-28,false
+52f5ed70-4891-4b89-859b-5dc07fe4d932,Microsoft Windows Server 2008,apa TwLGeitjENL,Server,1998-02-08,1998-09-16,true
+b3a2b413-192e-4170-84b9-a18645591b69,EMC Storage Array,GhD deHWyhPmaOl,Storage,2003-08-26,2004-07-04,false
+f63fd460-40e3-4668-b2c3-9ca8095cfe70,Microsoft Windows Server 2008,MsKeZvTEdeooCPRSk,Server,2011-11-24,2012-09-24,true
+5f064008-26b8-4b73-9b7c-cc34fde30887,IBM Mainframe,lYVtkv,Server,2003-05-13,2003-09-18,false
+a40f6bcc-1915-4aa3-9182-ae16c9653ee3,IBM Mainframe,OePbr,Server,2017-12-08,2018-09-18,false
+f2d44832-8547-481f-8c24-53a6f6ecdb36,IBM Mainframe,mJUK,Server,1996-03-26,1997-01-28,false
+7ac4a41b-e873-4581-ac7e-de300a2bc7f0,EMC Data Domain DD6300,yVJmRCn,Storage,1997-01-01,1997-05-21,false
+9fe91c46-4a87-496f-acfe-147acebe12dc,EMC Data Domain DD6300,luidhaNzWcpqj,Storage,2006-10-12,2007-04-03,true
+30fc719e-3908-401b-b9a2-154ad32b6a8d,Microsoft Router 456x,eCYJ,Network,2004-03-08,2004-09-11,false
+c07e4ac3-87b3-42f9-8269-34e63bb32f9d,Cisco Network hubs,XHNf,Network,2012-08-07,2013-03-01,true
+e7eeb9c9-23b4-45cb-9ccf-75510df2b947,Cisco Network hubs,mWBTMoCkIeEHwERYzbN,Network,2013-10-27,2014-09-15,false
+153b6189-9063-4219-8b57-94a818307fe8,Microsoft Windows Server 2008,YUwXMRbjxSfqNcx,Server,1999-01-02,1999-03-30,false
+c7ab7663-e451-4672-95c7-a42e04a3570a,Cisco Network hubs,PTROW,Network,2003-12-27,2004-02-21,false
+aa637534-f8a2-4ff4-9b1f-1a86baad2902,EMC Data Domain DD6300,sNLG,Storage,2009-08-22,2009-10-11,false
+a5ca2d20-9bb1-4d36-ac67-ca96abec411b,Microsoft Router 456x,exdgR,Network,2008-06-28,2008-08-07,true
+e086ac6a-96e7-4de5-8cad-2eb76169d6a3,IBM Mainframe,BkFyaOHzPe,Server,2019-04-04,2020-03-19,false
+640dacfe-6a65-42a6-be21-30a73d591626,Cisco Network hubs,MzoHpDqWUvjFN,Network,1996-02-26,1996-05-27,true
+29b61b86-cca9-40bd-bad3-876052e4e803,EMC Storage Array,FYGbSBr,Storage,1996-10-06,1997-02-03,true
+f57ebad6-f6cb-4f3f-bb47-359784c93791,Cisco Network hubs,CMLg,Network,2012-04-27,2013-04-17,true
+2642a67c-f392-456f-bb3a-6bfe3b71013b,EMC Data Domain DD6300,eDNWlvekvRBo,Storage,2006-11-20,2006-12-27,true
+730b6804-4091-4797-8450-36eaf985e261,Microsoft Windows Server 2008,lETZ,Server,2016-01-06,2016-10-12,false
+a3b211c3-519b-4e9c-b285-11573dcad736,EMC Data Domain DD6300,sazXcXa,Storage,2011-03-24,2011-09-26,false
+0af23ed7-82cc-4058-99d3-19923c8b60d8,Microsoft Windows Server 2008,BkDoXyfaQVHXsT,Server,2003-09-28,2003-11-22,false
+62bc6ebb-8542-40e0-aa41-7d9141be2a2b,Cisco Network hubs,Gg EPmzsnsRNXm,Network,2010-04-07,2010-10-16,false
+68f2deb7-9808-48db-b7ec-a5c1b1aa8a6f,EMC Storage Array,bMHBjZHHavL,Storage,2018-07-07,2018-10-10,false
+f748a437-726f-4eb7-ae2e-b44163d90a45,Microsoft Windows 2010 server,qTBfH,Server,2006-03-04,2006-06-12,false
+f3ac5447-3fef-4052-9254-1ba143a371a0,Cisco Router,WHhnCycl,Network,2002-11-15,2003-07-26,false
+fe84864b-03cf-4c5e-b84e-e0d93a3f75cf,EMC Data Domain DD6300,XgEZifolRvnLT,Storage,1999-01-19,1999-09-27,true

@@ -1,0 +1,8 @@
+eventcd,eventname,eventdesc,eventtype
+ER101,Server error 456,Internal server issue,ERROR
+FA125,Fatal error SRVC DWN,essentential service down,FATAL
+NER102,Network Connectivity down,No network found,NETWORK
+ER213,Server Error  - heartbeat missing,No ping available between components,ERROR
+ER135,Server error - Storage volume corrupt,Storage volume has been corrupted ,STORAGE
+NER118,Network Unknown,Unknown network error,NETWORK
+FA101,FATAL ERROR- Kernel corrupted,Kernel corrupted. Please replace,FATAL

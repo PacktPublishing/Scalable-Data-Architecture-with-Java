@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/sinchan
+    username: postgres
+    driverClassName: org.postgresql.Driver
+  batch:
+    initialize-schema: always
+env:
+  folder:
+    read: /Users/sinchan/Documents/chapter_4_pgrm/landing
+    process: /Users/sinchan/Documents/chapter_4_pgrm/process
+    archive: /Users/sinchan/Documents/chapter_4_pgrm/archive
+    error: /Users/sinchan/Documents/chapter_4_pgrm/error
