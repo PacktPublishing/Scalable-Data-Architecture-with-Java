@@ -1,0 +1,30 @@
+{
+  "customerId": 47,
+  "firstname": "Lilith",
+  "lastname": "Wolfgram",
+  "address": "324 Spring Ln",
+  "city": "Hanover",
+  "country": "Micronesia, Federated States of",
+  "countryCode": "FO",
+  "email uses current data": "Lilith.Wolfgram@gmail.com",
+  "bills": [
+    {
+      "billId": 0,
+      "billAmount": 4801.98,
+      "paymentStatus": false,
+      "dueDt": "2020-12-20"
+    },
+    {
+      "billId": 1,
+      "billAmount": 668.71,
+      "paymentStatus": false,
+      "dueDt": "2020-12-27"
+    },
+    {
+      "billId": 2,
+      "billAmount": 977.94,
+      "paymentStatus": true,
+      "dueDt": "2020-11-24"
+    }
+  ]
+}

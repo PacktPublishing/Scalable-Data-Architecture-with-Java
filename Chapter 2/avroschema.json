@@ -1,0 +1,67 @@
+{
+  "name": "MyClass",
+  "type": "record",
+  "namespace": "com.sample.avro",
+  "fields": [
+    {
+      "name": "customerId",
+      "type": "int"
+    },
+    {
+      "name": "firstname",
+      "type": "string"
+    },
+    {
+      "name": "lastname",
+      "type": "string"
+    },
+    {
+      "name": "address",
+      "type": "string"
+    },
+    {
+      "name": "city",
+      "type": "string"
+    },
+    {
+      "name": "country",
+      "type": "string"
+    },
+    {
+      "name": "countryCode",
+      "type": "string"
+    },
+    {
+      "name": "email",
+      "type": "string"
+    },
+    {
+      "name": "bills",
+      "type": {
+        "type": "array",
+        "items": {
+          "name": "bills_record",
+          "type": "record",
+          "fields": [
+            {
+              "name": "billId",
+              "type": "int"
+            },
+            {
+              "name": "billAmount",
+              "type": "float"
+            },
+            {
+              "name": "paymentStatus",
+              "type": "boolean"
+            },
+            {
+              "name": "dueDt",
+              "type": "string"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

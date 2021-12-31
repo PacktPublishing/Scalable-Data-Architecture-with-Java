@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <customerId>47</customerId>
+    <firstname>Lilith</firstname>
+    <lastname>Wolfgram</lastname>
+    <address>324 Spring Ln</address>
+    <city>Hanover</city>
+    <country>Micronesia, Federated States of</country>
+    <countryCode>FO</countryCode>
+    <email>Lilith.Wolfgram@gmail.com</email>
+
+    <bills>
+        <bill>
+            <billId>0</billId>
+            <billAmount>4801.98</billAmount>
+            <paymentStatus>false</paymentStatus>
+            <dueDt>2020-12-20</dueDt>
+        </bill>
+        <bill>
+            <billId>1</billId>
+            <billAmount>668.71</billAmount>
+            <paymentStatus>false</paymentStatus>
+            <dueDt>2020-12-27</dueDt>
+        </bill>
+        <bill>
+            <billId>2</billId>
+            <billAmount>977.94</billAmount>
+            <paymentStatus>true</paymentStatus>
+            <dueDt>2020-11-24</dueDt>
+        </bill>
+    </bills>
+
+</root>
