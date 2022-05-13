@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/sinchan
+    username: postgres
+    driverClassName: org.postgresql.Driver
+riskcalc:
+  bootstrap-servers: localhost:9092
+  appId: groupId1
+  inputTopic: landingTopic1
+  outTopic: enrichedTopic1
+  mlRequestUrl: "http://192.168.1.183:8081/riskgenerate/score"
