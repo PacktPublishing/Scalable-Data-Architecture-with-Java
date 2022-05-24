@@ -1,0 +1,8 @@
+restdaas:
+  mongoUrl: mongodb+srv://username:password@cluster0.iscft.mongodb.net/CRRD?retryWrites=true&w=majority
+  mongoDb: CRRD
+logging.level.com.querydsl.sql: DEBUG
+logging.level.org.springframework.data.mongodb.core.MongoTemplate: DEBUG
+spring:
+  jpa:
+    show-sql: true

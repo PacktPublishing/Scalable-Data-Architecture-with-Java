@@ -1,0 +1,15 @@
+graphql:
+  graphiql:
+    mapping: /graphiql
+    endpoint:
+      graphql: /graphql
+    subscriptions:
+      timeout: 30
+      reconnect: false
+    basePath: /
+    enabled: true
+    pageTitle: GraphiQL
+
+grahqldaas:
+  mongoUrl: mongodb+srv://username:password@cluster0.iscft.mongodb.net/CRRD?retryWrites=true&w=majority
+  mongoDb: CRRD

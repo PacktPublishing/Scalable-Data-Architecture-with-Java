@@ -1,0 +1,32 @@
+type Query{
+    byApplicationId(applicationId: ID):Application
+    byCustomerId(custId: String):[Application]
+}
+"""
+Type Application represents the entity/schema of the response payload for both byApplicationId and byCustomerId fields
+"""
+type Application {
+    """
+    Application Id which uniquely identifies each credit card application
+    """
+    applicationId: ID!
+    id: String!
+    genderCode: String
+    flagOwnCar: String
+    flagOwnRealty: String
+    cntChildren: Int
+    amtIncomeTotal: Float
+    nameIncomeType: String
+    nameEducationType: String
+    nameFamilyStatus: String
+    nameHousingType: String
+    daysBirth: Int
+    daysEmployed: Int
+    flagMobil: Int
+    flagWorkPhone: Int
+    flagPhone: Int
+    flagEmail: Int
+    occupationType: String
+    cntFamMembers: Int
+    riskScore: Float
+}
