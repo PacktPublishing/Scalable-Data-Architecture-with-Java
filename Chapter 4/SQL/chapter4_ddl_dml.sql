@@ -2,7 +2,7 @@
 
 CREATE TABLE IF NOT EXISTS chapter4.device_dimension
 (
-    deviceid integer NOT NULL DEFAULT nextval('chapter4."device_dimension_deviceId_seq"'::regclass),
+    deviceid serial NOT NULL,
     deviceserialno text COLLATE pg_catalog."default" NOT NULL,
     devicename text COLLATE pg_catalog."default",
     devicedesc text COLLATE pg_catalog."default",
@@ -16,7 +16,7 @@ CREATE TABLE IF NOT EXISTS chapter4.device_dimension
 
 CREATE TABLE IF NOT EXISTS chapter4.event_dimension
 (
-    eventid integer NOT NULL DEFAULT nextval('chapter4."event_dimension_eventId_seq"'::regclass),
+    eventid serial NOT NULL,
     eventcd text COLLATE pg_catalog."default" NOT NULL,
     eventname text COLLATE pg_catalog."default",
     eventdesc text COLLATE pg_catalog."default",
@@ -27,7 +27,7 @@ CREATE TABLE IF NOT EXISTS chapter4.event_dimension
 
 CREATE TABLE IF NOT EXISTS chapter4.hour_dimension
 (
-    hourid integer NOT NULL DEFAULT nextval('chapter4."hour_dimension_hourId_seq"'::regclass),
+    hourid serial NOT NULL,
     hour_of_day integer NOT NULL,
     am_or_pm text COLLATE pg_catalog."default",
     CONSTRAINT hour_dimension_pkey PRIMARY KEY (hourid),
