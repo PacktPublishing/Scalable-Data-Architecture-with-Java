@@ -85,8 +85,19 @@ CREATE TABLE IF NOT EXISTS chapter4.device_event_log_fact
         ON DELETE NO ACTION
 )
 
+--copy csv commands for manual ingestion of device_dimension and event_dimension
+copy chapter4.device_dimension (deviceid, deviceserialno, devicename, devicedesc, devicetype, mfdate, saledate, inwarranty)
+FROM '<repo_home>/Scalable-Data-Architecture-with-Java/Chapter 4/datasets/device_dm.csv' DELIMITER ',' CSV HEADER QUOTE '\"' ESCAPE '''';
+
+copy chapter4.event_dimension (eventid, eventcd, eventname, eventdesc, eventtype)
+FROM '<repo_home>/Scalable-Data-Architecture-with-Java/Chapter 4/datasets/event_dm.csv' DELIMITER ',' CSV HEADER QUOTE '\"' ESCAPE '''';
+
 
 -- DML for static dimension tables
+-- To execute the following command , right click on chapter 4 schema from PGAdmin 4 and select PSQL Tool. This will open PSQL commandline.
+-- Then first copy the command  line 1 (i.e. COPY <tablename> (<column_names>) FROM stdin;)
+-- Then enter each data line like as shown below in line 96 ( remember each column value should be tab separated)
+-- Once all data are entered , end it by typing \. as shown in line 100
 
 COPY chapter4.quarter_dimension (quarterid, name, quatercd) FROM stdin;
 1	First Quarter	Q1
