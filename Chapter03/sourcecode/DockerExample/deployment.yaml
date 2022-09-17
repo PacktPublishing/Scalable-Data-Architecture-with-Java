@@ -1,0 +1,35 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: hello-docker-service
+spec:
+  selector:
+    app: hello-docker-app
+  ports:
+    - protocol: "TCP"
+      port: 8080
+      targetPort: 8080
+      nodePort: 30036
+  type: LoadBalancer
+
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: hello-docker-app
+spec:
+  selector:
+    matchLabels:
+      app: hello-docker-app
+  replicas: 5
+  template:
+    metadata:
+      labels:
+        app: hello-docker-app
+    spec:
+      containers:
+        - name: hello-docker-app
+          image: hello-docker-app
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 8080
