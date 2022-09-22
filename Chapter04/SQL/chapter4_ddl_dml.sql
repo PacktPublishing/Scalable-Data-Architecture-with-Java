@@ -87,10 +87,10 @@ CREATE TABLE IF NOT EXISTS chapter4.device_event_log_fact
 
 --copy csv commands for manual ingestion of device_dimension and event_dimension
 copy chapter4.device_dimension (deviceid, deviceserialno, devicename, devicedesc, devicetype, mfdate, saledate, inwarranty)
-FROM '<repo_home>/Scalable-Data-Architecture-with-Java/Chapter 4/datasets/device_dm.csv' DELIMITER ',' CSV HEADER QUOTE '\"' ESCAPE '''';
+FROM '<repo_home>/Scalable-Data-Architecture-with-Java/Chapter 4/datasets/device_dm.csv' DELIMITER ',' CSV HEADER QUOTE '"' ESCAPE '''';
 
 copy chapter4.event_dimension (eventid, eventcd, eventname, eventdesc, eventtype)
-FROM '<repo_home>/Scalable-Data-Architecture-with-Java/Chapter 4/datasets/event_dm.csv' DELIMITER ',' CSV HEADER QUOTE '\"' ESCAPE '''';
+FROM '<repo_home>/Scalable-Data-Architecture-with-Java/Chapter 4/datasets/event_dm.csv' DELIMITER ',' CSV HEADER QUOTE '"' ESCAPE '''';
 
 
 -- DML for static dimension tables
