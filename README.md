@@ -63,7 +63,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ### Related products <Other books you may enjoy>
-* <Book name #1 from backmatter> [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/dp/<10P-ISBN>)
+* Data Cleaning and Exploration with Machine Learning [[Packt]](https://www.packtpub.com/product/data-cleaning-and-exploration-with-machine-learning/9781803241678?_ga=2.220177373.554494994.1663753571-1347501151.1654864057) [[Amazon]]()
 
 * <Book name #2 from backmatter> [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/dp/<10P-ISBN>)
 
