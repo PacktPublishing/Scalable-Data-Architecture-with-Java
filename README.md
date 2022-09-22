@@ -1,8 +1,8 @@
 # Scalable Data Architecture with Java
 
-<a href="<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>"><img src="https://static.packt-cdn.com/products/<13-P ISBN>/cover/smaller" alt="<Book Name>" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/scalable-data-architecture-with-java/9781801073080"><img src="https://static.packt-cdn.com/products/9781801073080/cover/smaller" alt="Scalable Data Architecture with Java" height="256px" align="right"></a>
 
-This is the code repository for [Scalable Data Architecture with Java](<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>), published by Packt.
+This is the code repository for [Scalable Data Architecture with Java](https://www.packtpub.com/product/scalable-data-architecture-with-java/9781801073080), published by Packt.
 
 **Build efficient enterprise-grade data architecting solutions using Java**
 
@@ -23,7 +23,7 @@ This book covers the following exciting features:
 * Evaluate, choose, and present the best architectural alternatives
 * Understand how to publish Data as a Service using GraphQL and a REST API	
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/<10P ISBN>) today!
+If you feel this book is for you, get your [copy](https://www-amazon-in.translate.goog/-/hi/Sinchan-Banerjee-ebook/dp/B0B5LFLFDM?_x_tr_sl=hi&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
@@ -32,8 +32,15 @@ All of the code is organized into folders.
 
 The code will look like the following:
 ```
-<Any code block from the book>
-
+public interface Transformer<K, V, R> {
+void init(ProcessorContext var1);
+R transform(K var1, V var2);
+void close();
+}
+```
+Any command-line input or output is written as follows:
+```
+bin/connect-standalone.sh config/connect-standalone.properties connect-riskcalc-mongodb-sink.properties
 ```
 
 **Following is what you need for this book:**
@@ -44,8 +51,13 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                                                                    | OS required                        |
 | -------- | -------------------------------------------------------------------------------------| -----------------------------------|
-|  		   |   							                                            			  | Windows, Mac OS X, and Linux (Any) |
-|          |   																					  |                                    |
+|  1-12		   |   		Java SDK 8 or 11					                                            			  | Windows, Mac OS, and Linux  |
+|  1-12		   |   Apache Maven 3.6 or above					                                            			  | Windows, Mac OS, and Linux  |
+|  1-12		   |   		IntelliJ IDEA Community Edition					                                            			  | Windows, Mac OS, and Linux  |
+|  1-12		   |   		Apache Spark 3.0 or above				                                            			  | Windows, Mac OS, and Linux  |
+|  1-12		   |   		Java SDK 8 or 11					                                            			  | Windows, Mac OS, and Linux  |
+|  1-12		   |   		Java SDK 8 or 11					                                            			  | Windows, Mac OS, and Linux  |
+|  1-12		   |   		Java SDK 8 or 11					                                            			  | Windows, Mac OS, and Linux  |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](<Graphic bundle link>).
 
