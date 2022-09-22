@@ -54,21 +54,26 @@ With the following software and hardware list you can run all code files present
 |  1-12		   |   		Java SDK 8 or 11					                                            			  | Windows, Mac OS, and Linux  |
 |  1-12		   |   Apache Maven 3.6 or above					                                            			  | Windows, Mac OS, and Linux  |
 |  1-12		   |   		IntelliJ IDEA Community Edition					                                            			  | Windows, Mac OS, and Linux  |
-|  1-12		   |   		Apache Spark 3.0 or above				                                            			  | Windows, Mac OS, and Linux  |
-|  1-12		   |   		Java SDK 8 or 11					                                            			  | Windows, Mac OS, and Linux  |
-|  1-12		   |   		Java SDK 8 or 11					                                            			  | Windows, Mac OS, and Linux  |
-|  1-12		   |   		Java SDK 8 or 11					                                            			  | Windows, Mac OS, and Linux  |
+|  1-12		   |   		Apache Spark 3.0 or above				                                            			  |  Windows, Mac OS, and Linux |
+|  1-12		   |   		AWS S3, Lambda, EMR, ECR, API Gateway					                                            			  | AWS CLoud|
+|  1-12		   |   		Docker Desktop					                                            			  | Windows, Mac OS, and Linux  |
+|  1-12		   |   	Minikube v1.23.2					                                            			  | Windows, Mac OS, and Linux  |
+|  1-12		   |   	PostgreSQL 14.0					                                            			  | Windows, Mac OS, and Linux  |
+|  1-12		   |   MongoDB Atlas					                                            			  | AWS CLoud|
+|  1-12		   |   	Apache Kafka 2.8.2				                                            			  | Windows, Mac OS, and Linux  |
+|  1-12		   |   	Apache NIFI 1.12.0					                                            			  | Windows, Mac OS, and Linux  |
+|  1-12		   |   	DataHub				                                            			  | Docker/Kubernetes|
+|  1-12		   |   Postman					                                            			  |  Windows, Mac OS, and Linux |
+|  1-12		   |   	GraphQL Playground 1.8.10				                                            			  | Windows, Mac OS, and Linux  |
+|  1-12		   |   	JMeter 5.5					                                            			  | Windows, Mac OS, and Linux  |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](<Graphic bundle link>).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/feLcH).
 
 
 ### Related products <Other books you may enjoy>
-* Data Cleaning and Exploration with Machine Learning [[Packt]](https://www.packtpub.com/product/data-cleaning-and-exploration-with-machine-learning/9781803241678?_ga=2.220177373.554494994.1663753571-1347501151.1654864057) [[Amazon]]()
+* Data Cleaning and Exploration with Machine Learning [[Packt]](https://www.packtpub.com/product/data-cleaning-and-exploration-with-machine-learning/9781803241678?_ga=2.220177373.554494994.1663753571-1347501151.1654864057) [[Amazon]](https://www.amazon.com/-/es/Michael-Walker/dp/1803241675/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=22BJ26J6GKAH5&keywords=Data+Cleaning+and+Exploration+with+Machine+Learning&qid=1663850961&sprefix=%2Caps%2C1519&sr=8-1)
 
-* <Book name #2 from backmatter> [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/dp/<10P-ISBN>)
+* Production-Ready Applied Deep Learning [[Packt]](https://www.packtpub.com/product/production-ready-applied-deep-learning/9781803243665?_ga=2.178153825.554494994.1663753571-1347501151.1654864057) [[Amazon]](https://www.amazon.com/-/es/Tomasz-Palczewski/dp/180324366X/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=14OVKC9DYTF1H&keywords=Production-Ready+Applied+Deep+Learning&qid=1663856745&sprefix=data+cleaning+and+exploration+with+machine+learning%2Caps%2C997&sr=8-1)
 
 ## Get to Know the Author(s)
 **Sinchan Banerjee** is a principal data architect at UST Inc. He works for their client Anthem to architect, build, and deliver scalable, robust data engineering solutions to solve their business problems. Prior to his journey with UST, he worked for various Fortune 500 organizations, such as Amex, Optum, Impetus, and HP, designing, architecting, and building robust data engineering solutions for very high volumes of data. He is the lead author of a patent on storage capacity forecasting and is the co-author of multiple international publications. He is also a certified AWS Professional and a certified Java programmer. He has also been a recipient of multiple awards and accolades for exceptional technical contribution, leadership, and innovation.
-
-
-
