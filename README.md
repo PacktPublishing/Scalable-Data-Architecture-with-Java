@@ -45,6 +45,7 @@ bin/connect-standalone.sh config/connect-standalone.properties connect-riskcalc-
 
 **Following is what you need for this book:**
 Data architects, aspiring data architects, Java developers and anyone who wants to develop or optimize scalable data architecture solutions using Java will find this book useful. A basic understanding of data architecture and Java programming is required to get the best from this book.	
+
 With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
 
 ### Software and Hardware List
