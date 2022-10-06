@@ -1,6 +1,6 @@
 # Scalable Data Architecture with Java
 
-<a href="https://www.packtpub.com/product/scalable-data-architecture-with-java/9781801073080"><img src="https://static.packt-cdn.com/products/9781801073080/cover/smaller" alt="Scalable Data Architecture with Java" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/scalable-data-architecture-with-java/9781801073080?_ga=2.13404020.2108142762.1664952140-1347501151.1654864057"><img src="https://static.packt-cdn.com/products/9781801073080/cover/smaller" alt="Scalable Data Architecture with Java" height="256px" align="right"></a>
 
 This is the code repository for [Scalable Data Architecture with Java](https://www.packtpub.com/product/scalable-data-architecture-with-java/9781801073080), published by Packt.
 
