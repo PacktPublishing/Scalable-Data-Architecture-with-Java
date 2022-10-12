@@ -33,9 +33,9 @@ All of the code is organized into folders.
 The code will look like the following:
 ```
 public interface Transformer<K, V, R> {
-void init(ProcessorContext var1);
-R transform(K var1, V var2);
-void close();
+  void init(ProcessorContext var1);
+  R transform(K var1, V var2);
+  void close();
 }
 ```
 Any command-line input or output is written as follows:
