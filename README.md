@@ -38,10 +38,6 @@ public interface Transformer<K, V, R> {
   void close();
 }
 ```
-Any command-line input or output is written as follows:
-```
-bin/connect-standalone.sh config/connect-standalone.properties connect-riskcalc-mongodb-sink.properties
-```
 
 **Following is what you need for this book:**
 Data architects, aspiring data architects, Java developers and anyone who wants to develop or optimize scalable data architecture solutions using Java will find this book useful. A basic understanding of data architecture and Java programming is required to get the best from this book.	
